@@ -1,0 +1,24 @@
+:root {
+  --color-bg: #050816;
+  --color-surface: rgba(15, 23, 42, 0.75);
+  --color-surface-light: rgba(30, 41, 59, 0.75);
+
+  --color-text: #ffffff;
+  --color-text-muted: #cbd5e1;
+  --color-primary: #38bdf8;
+  --color-secondary: #8b5cf6;
+  --color-border: rgba(148, 163, 184, 0.2);
+
+  --gradient-primary: linear-gradient(135deg, #38bdf8, #8b5cf6);
+  --gradient-dark: radial-gradient(circle at top left, rgba(56, 189, 248, 0.2), transparent 35%),
+    radial-gradient(circle at top right, rgba(139, 92, 246, 0.2), transparent 35%),
+    #050816;
+
+  --radius-sm: 8px;
+  --radius-md: 14px;
+  --radius-lg: 24px;
+
+ --container-width: 1520px;
+
+  --shadow-card: 0 20px 60px rgba(0, 0, 0, 0.35);
+}
